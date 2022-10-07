@@ -1,0 +1,19 @@
+{
+  "name": "checkmate",
+  "version": "1.0.0",
+  "description": "Checkmate is a discord bot which will assist SOA Chess Club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aparesh",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.5.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "glob": "^8.0.3",
+    "mongoose": "^6.6.4"
+  }
+}
